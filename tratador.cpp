@@ -7,7 +7,7 @@ void Tratador::setNivelSeguranca(string nivel_d_seguranca){
 }
 
 string Tratador::getNivelSeguranca(){
-    return nivel_d_seguranca;
+    return this -> nivel_d_seguranca;
 }
 
 //void Tratador::setAnimal(Animal animal){}
