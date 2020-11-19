@@ -2,6 +2,10 @@
 
 Funcionario::Funcionario(){}
 
+Funcionario::Funcionario(string nome, string id, float salario):nome(nome),id(id),salario(salario){}
+
+Funcionario::~Funcionario(){}
+
 void Funcionario::setNome(string nome){
     this->nome = nome;
 }
