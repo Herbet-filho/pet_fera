@@ -5,9 +5,9 @@ Funcionario::Funcionario(){}
 Funcionario::Funcionario(string nome, string id, float salario):nome(nome),id(id),salario(salario){}
 
 Funcionario::~Funcionario(){
-for(int i=0, i< Funcionario.getQuantidade;++i){
-    delete this -> Funcionario[i];
-}
+    for(int i=0, i< Funcionario.getQuantidade;++i){
+        delete this -> Funcionario[i];
+    }
 }
 
 void Funcionario::setNome(string nome){
