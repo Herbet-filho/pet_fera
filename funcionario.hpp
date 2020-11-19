@@ -11,7 +11,11 @@ class Funcionario{
     
     public:
         Funcionario();
-
+    
+        Funcionario(string nome, string id, float salario);
+    
+        ~funcionario();
+    
         void setNome(string nome);
         string getNome();
 
