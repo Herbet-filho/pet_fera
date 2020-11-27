@@ -3,7 +3,7 @@ Trabalho final da disciplina de Linguagem de Programação do curso de TI da UFR
 Alunos:
    * Herbet Pessoa da Silva Filho
    * Pedro Victor Barbosa Araújo
-Turma: T03
+*Turma: T03
 
 Primeira entrega:
-  Nesta entrega fizemos as classes base para o funcionamento do pet shop.
+  *Nesta entrega fizemos as classes base para o funcionamento do pet shop.
