@@ -1,6 +1,6 @@
 G++ = g++
 FLAGS1 = -Wall -std=c++11 -c
-#FLAGS2 = -Wall -std=c++11 -o test.o
+
 
 all: 
 	$(G++) $(FLAGS1) funcionario.cpp
