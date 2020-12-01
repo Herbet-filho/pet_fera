@@ -46,5 +46,5 @@ Primeira entrega:
     A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. É possivel ver no github todo o progresso do nosso trabalho desde o primeiro dia, onde é possivel ver na pasta primeira_entrega a nossa finalização do código. Segue abaixo o link do repositório do projeto finalizado.
     https://github.com/Herbet-filho/pet_fera/tree/main/primeira_entrega
     
-    O código foi rodado através do makefile e executado no terminal irá colocar make run_all.
+    O código foi rodado através do makefile e executado no terminal irá colocar make run_all
       
