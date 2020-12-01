@@ -27,14 +27,14 @@ Primeira entrega:
       - Remoção;
       - Alteração de dados;
       - Listagem de dados;
-      - Listar todos os animais ou por sua determinada classe
+      - Listar todos os animais ou por sua determinada classe;
     .Veterinário:
       - Cadastro;
       - Remoção;
       - Alteração de dados;
       - Consultar dados;
-      - Listar veterinários
-      - Listar animais sob cuidado do veterinário
+      - Listar veterinários;
+      - Listar animais sob cuidado do veterinário;
     .Tratador:
       - Cadastro;
       - Remoção;
