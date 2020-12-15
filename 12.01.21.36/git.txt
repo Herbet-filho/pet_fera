@@ -1,7 +1,0 @@
-Endereço do repositorio git
-https://github.com/Herbet-filho/pet_fera
-
-Endereço de pasta da primeira entrega
-https://github.com/Herbet-filho/pet_fera/tree/main/primeira_entrega
-
-
