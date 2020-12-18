@@ -1,13 +1,16 @@
-# pet_fera
-Trabalho final da disciplina de Linguagem de Programação do curso de TI da UFRN
+# PetFera
+Trabalho final da disciplina de Linguagem de Programação I do curso de Tecnologia da Informação da UFRN
 Alunos:
    * Herbet Pessoa da Silva Filho
    * Pedro Victor Barbosa Araújo
 
 *Turma: T03
 
-Primeira entrega:
-    *Nesta entrega fizemos as classes base para o funcionamento do pet shop.
+# Descrição
+Projeto de um sistema de petshop em que é possivel realizar a gerência de funcionários e comercialização de animais.
+
+# Funcionalidades
+
     
     A primeira parte do projeto consiste no objetivo de criar todas as classes necessárias para o funcionamento de um petShop. No nosso projeto foi criado nove classes, contabilizando 20 arquivos (incluindo o makefile, arquivos cpp e hpp).
     As classes criadas foram:
