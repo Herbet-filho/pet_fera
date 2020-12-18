@@ -62,6 +62,7 @@ As funcionalidades do petshop consiste em:
   Segue abaixo o link do repositório da segunda parte do projeto finalizado junto com o link da gravação no youtube.
       
       https://github.com/Herbet-filho/pet_fera/tree/main/Entrega_final
+      https://youtu.be/07w5xfVQrMU
     
   
      
