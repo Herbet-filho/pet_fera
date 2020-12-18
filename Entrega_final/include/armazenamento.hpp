@@ -12,8 +12,7 @@ using std::string;
 class Armazenamento{
     private:
         PetShop* petFera;
-        /*Animal* animais[];
-        Funcionario* funcionarios[];*/
+        
     public:
         Armazenamento();
         Armazenamento(int i, string nomeArquivo, PetShop &petFera);

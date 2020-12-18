@@ -23,8 +23,6 @@ class Tratador : public Funcionario{
         string getNivelSegurancaCor();
         
 
-
-
 };
 
 #endif
