@@ -41,9 +41,10 @@ As funcionalidades do petshop consiste em:
       
 # Primeira Entrega  
    
-    A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. Segue abaixo o link do repositório da primeira parte do projeto finalizado.
-    https://github.com/Herbet-filho/pet_fera/tree/main/Primeira_entrega
-    Link do video da apresentação no YouTube: https://youtu.be/OABShK4KeuE
+  A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. Segue abaixo o link do repositório da primeira parte do projeto finalizado.
+      
+      https://github.com/Herbet-filho/pet_fera/tree/main/Primeira_entrega
+      Link do video da apresentação no YouTube: https://youtu.be/OABShK4KeuE
     
 
 # Segunda Entrega
