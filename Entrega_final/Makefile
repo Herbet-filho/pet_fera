@@ -19,10 +19,6 @@ FLAGS2_ANIMAL_FUNCIONARIO = $(FLAGS2_ANIMAL) $(FLAGS2_FUNCIONARIO)
 OBJS = $(FLAGS2) $(OBJ)/armazenamento.o $(OBJ)/funcionario.o $(OBJ)/veterinario.o $(OBJ)/tratador.o $(OBJ)/animal.o $(OBJ)/domestico.o $(OBJ)/exotico.o $(OBJ)/nativo.o $(OBJ)/anfibio.o $(OBJ)/anfibio_domestico.o $(OBJ)/anfibio_exotico.o $(OBJ)/anfibio_nativo.o $(OBJ)/reptil.o $(OBJ)/reptil_domestico.o $(OBJ)/reptil_exotico.o $(OBJ)/reptil_nativo.o $(OBJ)/ave.o $(OBJ)/ave_domestica.o $(OBJ)/ave_exotica.o $(OBJ)/ave_nativa.o $(OBJ)/mamifero.o $(OBJ)/mamifero_domestico.o $(OBJ)/mamifero_exotico.o $(OBJ)/mamifero_nativo.o $(OBJ)/petshop.o
 
 all: 
-	#mkdir obj
-	#mkdir dados
-	#mkdir bin
-
 	$(FLAGS_COMPILAR_FUNCIONARIOS)/funcionario.cpp $(FLAGS2_FUNCIONARIO) $(FLAGS3)funcionario.o
 	$(FLAGS_COMPILAR_FUNCIONARIOS)/veterinario.cpp $(FLAGS2_FUNCIONARIO) $(FLAGS3)veterinario.o
 	$(FLAGS_COMPILAR_FUNCIONARIOS)/tratador.cpp $(FLAGS2_FUNCIONARIO) $(FLAGS3)tratador.o
