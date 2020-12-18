@@ -38,6 +38,8 @@ As funcionalidades do petshop consiste em:
       -É possivel carregar todos os dados cadastrais de sessões anteriores, retornando de onde parou.
       
 # Como Compilar
+
+    O código foi rodado através do makefile e ao executar no terminal irá colocar make run_all para  rodar e make clear para aparar todos os arquivos objeto do diretório e resetar o terminal, também existe a possibilidade de rodar o make run_all_clean que primeiro apaga os arquivos objetos e reseta o terminal e logo apos compila e roda o programa.
       
 # Primeira Entrega  
    
