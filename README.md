@@ -52,9 +52,10 @@ As funcionalidades do petshop consiste em:
 # Segunda Entrega
 
   A segunda e ultima parte do projeto foi finalizada no dia 18/12. Após uma primeira entrega incompleta com muitos erros de código e uma assimilação de conteúdo não tão concreta, nos preparamos melhor e mediante todas as observações feita pelo professor, conseguindo sanar todos os problemas apontados na primeira entrega, como por exemplo:
-  .A retirada de arrays do nosso código e a inserção de vetors; 
-  .A conclusão das classes que faltavam(nativo,exotico,doméstico);
-  .Organização;
-  .Melhor uso de heranças;
-  .Uso de classes abstratas
+    
+    .A retirada de arrays do nosso código e a inserção de vetors; 
+    .A conclusão das classes que faltavam(nativo,exotico,doméstico);
+    .Organização;
+    .Melhor uso de heranças;
+    .Uso de classes abstratas
   Fora todos os problemas resolvidos, também implementamos a parte principal da segunda entrega, que foi a manipulação de arquivos, criando métodos para salvar e carregar todos os dados inseridos.
