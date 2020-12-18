@@ -60,6 +60,9 @@ As funcionalidades do petshop consiste em:
     .Uso de classes abstratas
   Fora todos os problemas resolvidos, também implementamos a parte principal da segunda entrega, que foi a manipulação de arquivos, criando métodos para salvar e carregar todos os dados inseridos.
   Segue abaixo o link do repositório da segunda parte do projeto finalizado junto com o link da gravação no youtube.
+      
+      https://github.com/Herbet-filho/pet_fera/tree/main/Entrega_final
+    
   
      
   
