@@ -43,7 +43,7 @@ As funcionalidades do petshop consiste em:
       
 # Primeira Entrega  
    
-  A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. Segue abaixo o link do repositório da primeira parte do projeto finalizado.
+  A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. Segue abaixo o link do repositório da primeira parte do projeto finalizado junto com o link da gravação no youtube.
       
       https://github.com/Herbet-filho/pet_fera/tree/main/Primeira_entrega
       Link do video da apresentação no YouTube: https://youtu.be/OABShK4KeuE
@@ -59,3 +59,7 @@ As funcionalidades do petshop consiste em:
     .Melhor uso de heranças;
     .Uso de classes abstratas
   Fora todos os problemas resolvidos, também implementamos a parte principal da segunda entrega, que foi a manipulação de arquivos, criando métodos para salvar e carregar todos os dados inseridos.
+  Segue abaixo o link do repositório da primeira parte do projeto finalizado junto com o link da gravação no youtube.
+  
+     
+  
