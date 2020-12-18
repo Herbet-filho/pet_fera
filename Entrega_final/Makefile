@@ -78,7 +78,3 @@ run_valgrind:
 run_valgrind_erros:
 	valgrind -v --leak-check=full --show-reachable=yes ./petFera.o
 
-test_armazenamento:
-	g++ -Wall -c ./src/armazenamento.cpp -I./include -o ./obj/arma.o
-	g++ -Wall ./obj/arma.o -I./include ./src/test_armazenamento.cpp -o ./obj/test_arma.o
-	./obj/test_arma.o
