@@ -9,22 +9,9 @@ Alunos:
 # Descrição
 Projeto de um sistema de petshop em que é possivel realizar a gerência de funcionários e comercialização de animais.
 
-# Funcionalidades
+# Funcionalidade
+As funcionalidades do petshop consiste em:
 
-    
-    A primeira parte do projeto consiste no objetivo de criar todas as classes necessárias para o funcionamento de um petShop. No nosso projeto foi criado nove classes, contabilizando 20 arquivos (incluindo o makefile, arquivos cpp e hpp).
-    As classes criadas foram:
-    .PetShop
-    .Funcionário
-    .Tratador
-    .Veterinário
-    .Animal
-    .Anfibio
-    .Reptil
-    .Mamifero
-    .Ave
-    
-    A nossa ideia de projeto foi criar uma interface interativa onde o usuário tem como opção navegar por todas as opções necessárias para um funcionamento ideal de um petshop, onde a primeira tela se baseia na divisão de grupos: animais, tratadores e veterinários. Após essa primeira tela, logo é dada ao usuário as opções disponiveis no nosso projeto:
     .Animal:
       - Cadastro de um animal;
       - Remoção;
@@ -45,11 +32,20 @@ Projeto de um sistema de petshop em que é possivel realizar a gerência de func
       - Consultar dados;
       - Listar tratadores;
       - Listar animais sob cuidado do tratador;
+     
+    .Armazenamento de dados:
+      -Após a finalização do programa, todos os dados cadastrais dos animais e funcionários ficam salvos em arquivos CSV;
+      -É possivel carregar todos os dados cadastrais de sessões anteriores, retornando de onde parou.
       
-    A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. É possivel ver no github todo o progresso do nosso trabalho desde o primeiro dia, onde é possivel ver na pasta primeira_entrega a nossa finalização do código. Segue abaixo o link do repositório do projeto finalizado.
+# Como Compilar
+      
+# Primeira Entrega  
+   
+    A primeira parte do projeto foi finalizada e corrigida do dia 01/12, onde segue cumprindo com todas as indicações de correção que o professor inseriu. Segue abaixo o link do repositório da primeira parte do projeto finalizado.
     https://github.com/Herbet-filho/pet_fera/tree/main/Primeira_entrega
-    
-    O código foi rodado através do makefile e ao executar no terminal irá colocar make run_all para  rodar e make clear para aparar todos os arquivos objeto do diretório e resetar o terminal.
-    
     Link do video da apresentação no YouTube: https://youtu.be/OABShK4KeuE
     
+
+# Segunda Entrega
+
+  A segunda e ultima parte do projeto foi finalizada no dia 18/12. Após uma primeira entrega incompleta com muitos erros de código e uma assimilação de conteúdo não tão concreta, nos preparamos melhor e mediante todas as observações feita pelo professor, conseguindo sanar todos os problemas apontados na primeira entrega, além de completar a tarefa principal da segunda parte do projeto: a manipulação de arquivos.
